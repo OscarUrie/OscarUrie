@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @OscarUrie
 - 👀 I’m interested in android app development
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Jetpack Compose
+- 💞️ I’m looking to collaborate on openAI for android
 - 📫 How to reach me ...
 
 <!---
